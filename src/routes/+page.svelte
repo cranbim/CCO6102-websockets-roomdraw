@@ -6,7 +6,6 @@
 <p>Uses the plain Track 1 relay, unchanged:</p>
 <pre>cd 19-express-ws-relay
 npm start</pre>
-<p>Open <a href="/together">Everyone together</a> in two or more windows and draw.</p>
 
 <h2>2. Rooms</h2>
 <p>Stop the plain relay (Ctrl+C) and start the rooms relay:</p>

@@ -10,7 +10,6 @@
 
 <nav>
 	<a href="/">Home</a>
-	<a href="/together">Everyone together</a>
 	<a href="/rooms">Rooms</a>
 </nav>
 
